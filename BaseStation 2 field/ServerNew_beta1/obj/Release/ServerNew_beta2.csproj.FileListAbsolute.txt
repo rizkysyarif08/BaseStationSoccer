@@ -1,0 +1,4 @@
+C:\Users\MoboThree\Desktop\ServerNew_beta2\ServerNew_beta1\bin\Release\ServerNew_beta2.exe.config
+C:\Users\MoboThree\Desktop\ServerNew_beta2\ServerNew_beta1\obj\Release\ServerNew_beta1.Form1.resources
+C:\Users\MoboThree\Desktop\ServerNew_beta2\ServerNew_beta1\obj\Release\ServerNew_beta2.Properties.Resources.resources
+C:\Users\MoboThree\Desktop\ServerNew_beta2\ServerNew_beta1\obj\Release\ServerNew_beta2.csproj.GenerateResource.Cache

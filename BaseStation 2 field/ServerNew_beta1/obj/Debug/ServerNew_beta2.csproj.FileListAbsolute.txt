@@ -1,0 +1,71 @@
+D:\Mobo-Evo\VS\Beta\RobotBaru\ServerNew_beta2\ServerNew_beta1\bin\Debug\ServerNew_beta2.exe.config
+D:\Mobo-Evo\VS\Beta\RobotBaru\ServerNew_beta2\ServerNew_beta1\bin\Debug\ServerNew_beta2.exe
+D:\Mobo-Evo\VS\Beta\RobotBaru\ServerNew_beta2\ServerNew_beta1\bin\Debug\ServerNew_beta2.pdb
+D:\Mobo-Evo\VS\Beta\RobotBaru\ServerNew_beta2\ServerNew_beta1\bin\Debug\Microsoft.VisualBasic.PowerPacks.Design.dll
+D:\Mobo-Evo\VS\Beta\RobotBaru\ServerNew_beta2\ServerNew_beta1\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\Mobo-Evo\VS\Beta\RobotBaru\ServerNew_beta2\ServerNew_beta1\bin\Debug\NetworksApi.dll
+D:\Mobo-Evo\VS\Beta\RobotBaru\ServerNew_beta2\ServerNew_beta1\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\Mobo-Evo\VS\Beta\RobotBaru\ServerNew_beta2\ServerNew_beta1\obj\Debug\ServerNew_beta2.csprojResolveAssemblyReference.cache
+D:\Mobo-Evo\VS\Beta\RobotBaru\ServerNew_beta2\ServerNew_beta1\obj\Debug\ServerNew_beta1.Form1.resources
+D:\Mobo-Evo\VS\Beta\RobotBaru\ServerNew_beta2\ServerNew_beta1\obj\Debug\ServerNew_beta2.Properties.Resources.resources
+D:\Mobo-Evo\VS\Beta\RobotBaru\ServerNew_beta2\ServerNew_beta1\obj\Debug\ServerNew_beta2.csproj.GenerateResource.Cache
+D:\Mobo-Evo\VS\Beta\RobotBaru\ServerNew_beta2\ServerNew_beta1\obj\Debug\ServerNew_beta2.exe
+D:\Mobo-Evo\VS\Beta\RobotBaru\ServerNew_beta2\ServerNew_beta1\obj\Debug\ServerNew_beta2.pdb
+C:\Users\MoboThree\Desktop\ServerNew_beta2\ServerNew_beta1\bin\Debug\ServerNew_beta2.exe.config
+C:\Users\MoboThree\Desktop\ServerNew_beta2\ServerNew_beta1\obj\Debug\ServerNew_beta2.exe
+C:\Users\MoboThree\Desktop\ServerNew_beta2\ServerNew_beta1\obj\Debug\ServerNew_beta2.pdb
+C:\Users\MoboThree\Desktop\ServerNew_beta2\ServerNew_beta1\bin\Debug\ServerNew_beta2.exe
+C:\Users\MoboThree\Desktop\ServerNew_beta2\ServerNew_beta1\bin\Debug\ServerNew_beta2.pdb
+C:\Users\MoboThree\Desktop\ServerNew_beta2\ServerNew_beta1\obj\Debug\ServerNew_beta2.csprojResolveAssemblyReference.cache
+C:\Users\MoboThree\Desktop\ServerNew_beta2\ServerNew_beta1\obj\Debug\ServerNew_beta1.Form1.resources
+C:\Users\MoboThree\Desktop\ServerNew_beta2\ServerNew_beta1\obj\Debug\ServerNew_beta2.Properties.Resources.resources
+C:\Users\MoboThree\Desktop\ServerNew_beta2\ServerNew_beta1\obj\Debug\ServerNew_beta2.csproj.GenerateResource.Cache
+C:\Users\MoboThree\Desktop\ServerNew_beta2\ServerNew_beta1\bin\Debug\Microsoft.VisualBasic.PowerPacks.Design.dll
+C:\Users\MoboThree\Desktop\ServerNew_beta2\ServerNew_beta1\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\MoboThree\Documents\GitHub\BaseStation\ServerNew_beta1\bin\Debug\ServerNew_beta2.exe.config
+D:\GitHubRepository\BaseStation\ServerNew_beta1\bin\Debug\ServerNew_beta2.exe.config
+D:\GitHubRepository\BaseStation\ServerNew_beta1\bin\Debug\ServerNew_beta2.exe
+D:\GitHubRepository\BaseStation\ServerNew_beta1\bin\Debug\ServerNew_beta2.pdb
+D:\GitHubRepository\BaseStation\ServerNew_beta1\bin\Debug\Microsoft.VisualBasic.PowerPacks.Design.dll
+D:\GitHubRepository\BaseStation\ServerNew_beta1\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\GitHubRepository\BaseStation\ServerNew_beta1\obj\Debug\ServerNew_beta2.csprojResolveAssemblyReference.cache
+D:\GitHubRepository\BaseStation\ServerNew_beta1\obj\Debug\ServerNew_beta1.Form1.resources
+D:\GitHubRepository\BaseStation\ServerNew_beta1\obj\Debug\ServerNew_beta2.Properties.Resources.resources
+D:\GitHubRepository\BaseStation\ServerNew_beta1\obj\Debug\ServerNew_beta2.csproj.GenerateResource.Cache
+D:\GitHubRepository\BaseStation\ServerNew_beta1\obj\Debug\ServerNew_beta2.exe
+D:\GitHubRepository\BaseStation\ServerNew_beta1\obj\Debug\ServerNew_beta2.pdb
+D:\BaseStation\ServerNew_beta1\bin\Debug\ServerNew_beta2.exe.config
+D:\BaseStation\ServerNew_beta1\obj\Debug\ServerNew_beta2.exe
+D:\BaseStation\ServerNew_beta1\obj\Debug\ServerNew_beta2.pdb
+D:\BaseStation\ServerNew_beta1\bin\Debug\ServerNew_beta2.exe
+D:\BaseStation\ServerNew_beta1\bin\Debug\ServerNew_beta2.pdb
+D:\BaseStation\ServerNew_beta1\bin\Debug\Microsoft.VisualBasic.PowerPacks.Design.dll
+D:\BaseStation\ServerNew_beta1\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\BaseStation\ServerNew_beta1\obj\Debug\ServerNew_beta2.csprojResolveAssemblyReference.cache
+D:\BaseStation\ServerNew_beta1\obj\Debug\ServerNew_beta1.Form1.resources
+D:\BaseStation\ServerNew_beta1\obj\Debug\ServerNew_beta2.Properties.Resources.resources
+D:\BaseStation\ServerNew_beta1\obj\Debug\ServerNew_beta2.csproj.GenerateResource.Cache
+D:\Mobo Evo\BaseStation\ServerNew_beta1\bin\Debug\ServerNew_beta2.exe.config
+D:\Mobo Evo\BaseStation\ServerNew_beta1\obj\Debug\ServerNew_beta2.exe
+D:\Mobo Evo\BaseStation\ServerNew_beta1\obj\Debug\ServerNew_beta2.pdb
+D:\Mobo Evo\BaseStation\ServerNew_beta1\bin\Debug\ServerNew_beta2.exe
+D:\Mobo Evo\BaseStation\ServerNew_beta1\bin\Debug\ServerNew_beta2.pdb
+D:\Mobo Evo\BaseStation\ServerNew_beta1\bin\Debug\Microsoft.VisualBasic.PowerPacks.Design.dll
+D:\Mobo Evo\BaseStation\ServerNew_beta1\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\Mobo Evo\BaseStation\ServerNew_beta1\obj\Debug\ServerNew_beta2.csprojResolveAssemblyReference.cache
+D:\Mobo Evo\BaseStation\ServerNew_beta1\obj\Debug\ServerNew_beta1.Form1.resources
+D:\Mobo Evo\BaseStation\ServerNew_beta1\obj\Debug\ServerNew_beta2.Properties.Resources.resources
+D:\Mobo Evo\BaseStation\ServerNew_beta1\obj\Debug\ServerNew_beta2.csproj.GenerateResource.Cache
+D:\Mobo Evo\BaseStation\ServerNew_beta1\obj\Debug\ServerNew_beta2.csproj.CoreCompileInputs.cache
+D:\Mobo Evo\BaseStation 2 field\ServerNew_beta1\bin\Debug\ServerNew_beta2.exe.config
+D:\Mobo Evo\BaseStation 2 field\ServerNew_beta1\bin\Debug\ServerNew_beta2.exe
+D:\Mobo Evo\BaseStation 2 field\ServerNew_beta1\bin\Debug\ServerNew_beta2.pdb
+D:\Mobo Evo\BaseStation 2 field\ServerNew_beta1\bin\Debug\Microsoft.VisualBasic.PowerPacks.Design.dll
+D:\Mobo Evo\BaseStation 2 field\ServerNew_beta1\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\Mobo Evo\BaseStation 2 field\ServerNew_beta1\obj\Debug\ServerNew_beta2.csprojResolveAssemblyReference.cache
+D:\Mobo Evo\BaseStation 2 field\ServerNew_beta1\obj\Debug\ServerNew_beta1.Form1.resources
+D:\Mobo Evo\BaseStation 2 field\ServerNew_beta1\obj\Debug\ServerNew_beta2.Properties.Resources.resources
+D:\Mobo Evo\BaseStation 2 field\ServerNew_beta1\obj\Debug\ServerNew_beta2.csproj.GenerateResource.Cache
+D:\Mobo Evo\BaseStation 2 field\ServerNew_beta1\obj\Debug\ServerNew_beta2.csproj.CoreCompileInputs.cache
+D:\Mobo Evo\BaseStation 2 field\ServerNew_beta1\obj\Debug\ServerNew_beta2.exe
+D:\Mobo Evo\BaseStation 2 field\ServerNew_beta1\obj\Debug\ServerNew_beta2.pdb
